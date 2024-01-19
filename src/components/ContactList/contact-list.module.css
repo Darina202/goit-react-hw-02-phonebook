@@ -1,0 +1,11 @@
+.list {
+}
+.item {
+  margin-bottom: 12px;
+  width: 300px;
+}
+.btn {
+  margin-left: 12px;
+  cursor: pointer;
+  border-radius: 5px;
+}

@@ -1,0 +1,20 @@
+.wrapper {
+  padding: 30px;
+}
+
+.wrapper h1 {
+  margin-bottom: 15px;
+}
+
+.wrapper h2 {
+  margin-bottom: 15px;
+}
+
+.text {
+  margin-bottom: 12px;
+}
+
+.filter {
+  margin-bottom: 12px;
+  margin-left: 10px;
+}

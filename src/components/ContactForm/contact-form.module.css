@@ -1,0 +1,23 @@
+.form {
+  margin-bottom: 20px;
+  padding: 15px 10px;
+  border: 1px solid;
+  width: 300px;
+}
+.formGroup {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: baseline;
+}
+
+.label {
+  width: 100px;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #ebebeb;
+}
